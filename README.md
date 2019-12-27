@@ -2,6 +2,9 @@
 This is a current-state fork only - it's meant to grab this repo at it's current state and NOT modify it. For RecordRTC please see: https://github.com/muaz-khan/WebRTC-Experiment
 
 
+# USE AT YOUR OWN RISK (OR READ ABOVE AND LISTEN)
+# YOU'VE BEEN WARNED ;)
+#
 ______________________
 
 # WebRTC Demos, Experiments, Libraries, Examples
