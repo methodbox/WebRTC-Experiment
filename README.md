@@ -1,3 +1,9 @@
+# NON-MAINTAINED
+This is a current-state fork only - it's meant to grab this repo at it's current state and NOT modify it. For RecordRTC please see: https://github.com/muaz-khan/WebRTC-Experiment
+
+
+______________________
+
 # WebRTC Demos, Experiments, Libraries, Examples
 
 ----
